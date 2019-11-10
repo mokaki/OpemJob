@@ -6,7 +6,7 @@ OpemJob=開始工作
 1 建立網絡身份:
 
 
-googleAc
+[googleAc](https://drive.google.com/drive/folders/19YLIe-pmZt3tprno8tkSAfeWJJqVG_w7?usp=sharing)
 
 1.0: [網站購買](https://ifastnet.com/)|
       申請ac 帳密 autoWeb自動申請網上流程
