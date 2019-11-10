@@ -5,8 +5,7 @@ OpemJob=開始工作
 
 1 建立網絡身份:
 
-
- a : [網站購買](https://ifastnet.com/)|
+1.0: [網站購買](https://ifastnet.com/)|
       申請ac 帳密 autoWeb自動申請網上流程
 
 app = 一站建立上述
